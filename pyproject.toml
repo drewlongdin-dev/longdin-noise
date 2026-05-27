@@ -1,0 +1,21 @@
+[build-system]
+requires = ["hatchling"]
+build-backend = "hatchling.build"
+
+[project]
+name = "longdin-noise"
+version = "0.1.0"
+description = "A diffusion-driven procedural noise library."
+readme = "README.md"
+requires-python = ">=3.9"
+dependencies = [
+    "numpy",
+    "numba",
+]
+
+[[project.authors]]
+name = "Drew Longdin"
+email = "drewlongdin@gmail.com"
+
+[project.urls]
+Homepage = "https://github.com/drewlongdin-dev/longdin-noise"
