@@ -15,7 +15,7 @@ dependencies = [
 
 [[project.authors]]
 name = "Drew Longdin"
-email = "drewlongdin@gmail.com"
+email = "longdindrew@gmail.com"
 
 [project.urls]
 Homepage = "https://github.com/drewlongdin-dev/longdin-noise"
