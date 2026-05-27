@@ -67,7 +67,7 @@ img.save("mono_noise.png")
 
 *This will create you a lovely greyscale image using the longdin_noise python library:*
 
-![Mono noise example](examples/mono_noise.png)
+![Mono noise example](https://raw.githubusercontent.com/drewlongdin-dev/longdin-noise/main/examples/mono_noise.png)
 
 ### Parameters
 
@@ -94,12 +94,12 @@ The radius is quite simple. It just affects how far each active cell can influen
 ### **Low** density, **high** iterations *(0.005 Density, 20 Iterations)*
 | Mono | Bi | Tri |
 |------|----|-----|
-| ![](examples/mono_low_high.png) | ![](examples/bi_low_high.png) | ![](examples/tri_low_high.png) |
+| ![](https://raw.githubusercontent.com/drewlongdin-dev/longdin-noise/main/examples/mono_low_high.png) | ![](https://raw.githubusercontent.com/drewlongdin-dev/longdin-noise/main/examples/bi_low_high.png) | ![](https://raw.githubusercontent.com/drewlongdin-dev/longdin-noise/main/examples/tri_low_high.png) |
 
 ### **High** density, **low** iterations *(0.6 Density, 4 Iterations)*
 | Mono | Bi | Tri |
 |------|----|-----|
-| ![](examples/mono_high_low.png) | ![](examples/bi_high_low.png) | ![](examples/tri_high_low.png) |
+| ![](https://raw.githubusercontent.com/drewlongdin-dev/longdin-noise/main/examples/mono_high_low.png) | ![](https://raw.githubusercontent.com/drewlongdin-dev/longdin-noise/main/examples/bi_high_low.png) | ![](https://raw.githubusercontent.com/drewlongdin-dev/longdin-noise/main/examples/tri_high_low.png) |
 
 ## Dependencies
 
