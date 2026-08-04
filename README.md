@@ -87,7 +87,7 @@ The number of iterations — in short — just increases the amount of smearing 
 
 The density will basically dictate how noisy the image is. A really, really low density like 0.0005 - especially on a low number of iterations like 1 - 4 - scatters 'searchlights' across the image. I have yet to find a use for this but it's pretty cool. A high density creates a more tightly packed image where blending between colours occurs much sooner in the iterative process.
 
-The radius is quite simple. It just affects how far each active cell can influence. I haven't had an opportunity to experiment with this much, but it should have an 'octaves' effect where higher values create simpler noise.
+The radius is quite simple. It just affects how far each active cell can influence. I haven't had an opportunity to experiment with this much, but it should have a 'reverse octaves' effect where higher values create simpler noise.
 
 ### Example Images
 
