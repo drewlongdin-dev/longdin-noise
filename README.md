@@ -8,7 +8,7 @@ It is interesting in the fact that two different configurations can produce wild
 
 ## Why was it made?
 
-For no particular reason really. It's strange pattern makes it impractical for common examples in games (like landscapes for video games with Perlin Noise). It's definitely an example of more artistic noise - although, if you can find a genuinely practical use for this thing, please do let me know via my email!
+For no particular reason really. Its strange pattern makes it impractical for common examples in games (like landscapes for video games with Perlin Noise). It's definitely an example of more artistic noise - although, if you can find a genuinely practical use for this thing, please do let me know via my email!
 
 It started off as a desperate wrestle with the boney hands of boredom. It's strange to think the wonders one's mind can produce when one is desperately in need of something to do - or, indeed, type. If you ever find yourself desperately bored with nothing to do, create a new python file and type the following:
 
@@ -21,7 +21,7 @@ There's something about the openness of an unimplemented class that allows the m
 
 ## The Inner-Workings
 
-All three of the generator functions first instantiates a `_Noise` object. `_Noise` is an internal class and is not intended for use outside of the API.
+All three of the generator functions first instantiate a `_Noise` object. `_Noise` is an internal class and is not intended for use outside of the API.
 
 ### Initialisation
 
